@@ -32,7 +32,7 @@ Ce projet modélise et simule les facteurs influençant le divorce au Maroc en u
 ## ⚙️ Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/simulation-divorce-sma.git
+   git clone https://github.com/Horese07/Simulation_Porjet_SMA.git
    ```
 2. Téléchargez et installez **NetLogo** depuis [NetLogo Download](https://ccl.northwestern.edu/netlogo/).
 3. Ouvrez le fichier `.nlogo` dans NetLogo pour exécuter la simulation.
