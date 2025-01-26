@@ -20,9 +20,6 @@ Ce projet modélise et simule les facteurs influençant le divorce au Maroc en u
 
 ## 📂 Structure du Projet
 - **`code/`** : Contient les fichiers NetLogo pour la simulation.
-- **`data/`** : Ensemble des données utilisées pour configurer les agents.
-- **`uml/`** : Diagrammes UML (cas d'utilisation, classes, séquences).
-- **`results/`** : Graphiques et rapports générés à partir des simulations.
 - **`README.md`** : Documentation du projet.
 
 ## 🚀 Fonctionnalités
