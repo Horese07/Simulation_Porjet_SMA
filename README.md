@@ -50,7 +50,7 @@ Ce projet modélise et simule les facteurs influençant le divorce au Maroc en u
 
 ## 📝 Auteur
 - **Elachguar Elhoucine**
-- **Boussaoula Fatma**
+
 
 ---
 
