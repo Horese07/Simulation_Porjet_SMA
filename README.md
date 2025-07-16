@@ -1,6 +1,3 @@
-Voici une structure pour le fichier README de votre projet. Il doit présenter votre projet de manière claire et professionnelle pour les visiteurs de votre dépôt GitHub.
-
----
 
 # Simulation du Phénomène de Divorce au Maroc avec les Systèmes Multi-Agents (SMA)
 
